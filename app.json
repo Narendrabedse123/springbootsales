@@ -1,0 +1,10 @@
+{
+  "name": "Spring Boot Bars",
+  "description": "Sample app with Spring Boot and Hibernate",
+  "repository": "https://github.com/jamesward/springbootbars",
+  "logo": "http://g00glen00b.be/wp-content/uploads/2012/08/spring-boot-logo.png",
+  "keywords": ["java", "spring", "spring boot", "hibernate"],
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
